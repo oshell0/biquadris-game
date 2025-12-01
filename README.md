@@ -22,7 +22,7 @@ Final project for CS246 - Object Oriented Programming.
 #### Tech Stack
 - C++20 (Modules TS)
 - X11 for graphics
-- GCC 15+
+- GCC 15/GCC 14
 - Makefile build system
 
 ## Gameplay 
