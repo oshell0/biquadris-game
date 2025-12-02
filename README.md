@@ -27,6 +27,9 @@ Final project for CS246 - Object Oriented Programming.
 
 ## Gameplay 
 
+<img width="1328" height="837" alt="Biquadris Gameplay" src="https://github.com/user-attachments/assets/0b25e795-69c8-49d4-9e13-6fe9af4a0ac9" />
+
+
 ### How to Play
 - On your turn, control the falling block by moving left or right, rotating, or dropping.
 - Place blocks to complete full horizontal rows, full rows get cleared, cleared rows earn points and clearing an entire block gains extra points.
